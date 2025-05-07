@@ -1,6 +1,6 @@
 {
   "name": "todo",
-  "homepage": "https://AKOWAKOU.github.io/cicd-todo/",  
+  "homepage": "https://akowakou.github.io/cicd-todo",  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
